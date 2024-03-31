@@ -1,0 +1,11 @@
+2024-03-31 11:13:47 error: Error fetching unpaid jobs for user: Cannot read properties of undefined (reading 'getAllNonTerminatedContractsWithUnpaidJobsThatCurrentUserIsInvolvedWith')
+2024-03-31 11:13:47 error: Error processing payment: Cannot read properties of undefined (reading 'getUserById')
+2024-03-31 11:14:55 error: Error fetching unpaid jobs for user: Cannot read properties of undefined (reading 'getAllNonTerminatedContractsWithUnpaidJobsThatCurrentUserIsInvolvedWith')
+2024-03-31 11:14:55 error: Error processing payment: Cannot read properties of undefined (reading 'getUserById')
+2024-03-31 11:21:29 error: Error processing payment: Job not found
+2024-03-31 11:30:04 error: Error processing payment: Job not found
+2024-03-31 11:33:38 error: Error processing payment: Job not found
+2024-03-31 11:36:37 error: Error processing payment: Job not found
+2024-03-31 11:46:58 error: Error processing payment: Job not found
+2024-03-31 11:48:56 error: Error processing payment: Job not found
+2024-03-31 11:49:44 error: Error processing payment: Job not found
